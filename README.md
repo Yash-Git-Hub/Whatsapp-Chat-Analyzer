@@ -4,15 +4,6 @@
 
 ---
 
-<center><a href="#" target="_blank"><img src="assets/images/logo.jpg" /></a></center>
-
-[![GitHub license](https://img.shields.io/github/license/pcsingh/WhatsApp-Chat-Analyzer.svg?logo=github)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/pcsingh/WhatsApp-Chat-Analyzer.svg?logo=github)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/stargazers) [![GitHub forks](https://img.shields.io/github/forks/pcsingh/WhatsApp-Chat-Analyzer.svg?logo=github&color=teal)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/network/members) [![GitHub top language](https://img.shields.io/github/languages/top/pcsingh/WhatsApp-Chat-Analyzer?color=yellow&logo=python)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer)
-
----
-
-> **You can view the working project [here](https://whatsapp-chat-analyzer.herokuapp.com/).**
-
-[![WhatsApp Chat Analyzer](https://img.shields.io/badge/WhatsApp_Chat-Analyzer-teal.svg?colorA=teal&colorB=orange&style=for-the-badge)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/) [![IoT](https://img.shields.io/badge/Data-Science-teal.svg?colorA=blue&colorB=red&style=for-the-badge)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/)
 
 WhatsApp chat Analyzer is a WebApp where anyone either tech or non-tech person can analyze their WhatsApp chat data. With this, you can get information such as Which person is active in the chat? Generally, What time the other person is free for conversation? Which one member from the group is more engaged in chat? Which word is most used by a particular member in the group?
 
