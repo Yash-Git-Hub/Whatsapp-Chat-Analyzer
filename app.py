@@ -19,9 +19,9 @@ st.markdown("This app is use to analyze your WhatsApp Chat using the exported te
 st.sidebar.title("Analyze:")
 st.sidebar.markdown("This app is use to analyze your WhatsApp Chat using the exported text file 📁.")
 
-st.sidebar.markdown('[![Premchandra Singh]\
-                    (https://img.shields.io/badge/Author-@pcsingh-gray.svg?colorA=gray&colorB=dodgerblue&logo=github)]\
-                    (https://github.com/pcsingh/WhatsApp-Chat-Analyzer/)')
+st.sidebar.markdown('[![Yash Pathania]\
+                    ((https://github.com/Yash-Git-Hub/Whatsapp-Chat-Analyzer))]\
+                    (https://github.com/Yash-Git-Hub/Whatsapp-Chat-Analyzer)')
 
 st.sidebar.markdown('**How to export chat text file?**')
 st.sidebar.text('Follow the steps 👇:')
@@ -182,6 +182,6 @@ if filename is not None:
         st.error("Something is wrong in loading the data! Please select the correct date format or Try again. Error Type: {}".format(e.__name__))
 
 
-st.sidebar.markdown("[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/premchandra-singh/)")
-st.sidebar.markdown("[![smile please](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://www.linkedin.com/in/premchandra-singh/)")
+st.sidebar.markdown("[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/yashhere/)")
+st.sidebar.markdown("[![smile please](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://www.linkedin.com/in/yashhere/)")
 
