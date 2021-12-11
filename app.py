@@ -9,7 +9,6 @@ from custom_modules import func_use_extract_data as func
 from custom_modules import func_analysis as analysis
 
 # to disable warning by file_uploader going to convert into io.TextIOWrapper
-st.set_option('deprecation.showfileUploaderEncoding', False)
 
 # ------------------------------------------------
 
